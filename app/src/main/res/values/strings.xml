@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examination_result_App_student_database</string>
+    <string name="student_details">Student Details</string>
+    <string name="enter_rollno">Enter Rollno:</string>
+    <string name="eg_11204022">eg:11204022</string>
+    <string name="eg_satha">eg:Satha</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_marks">Enter Marks:</string>
+    <string name="eg_80">eg:80</string>
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="view_all">View All</string>
+    <string name="view">View</string>
+</resources>
